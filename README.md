@@ -13,7 +13,7 @@ https://doc.react-china.org/ （react 中文网）
 
 https://react-guide.github.io/react-router-cn/ （react router）  
 
-http://www.redux.org.cn/ （redux）  
+http://cn.redux.js.org/index.html/ （redux）  
 
 https://reactnative.cn/   （react native 中文网）  
 
