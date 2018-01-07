@@ -21,7 +21,13 @@ https://reactnative.cn/   （react native 中文网）
 https://ant.design/index-cn  （阿里 ant design  包含：pc，wap，app  全套解决方案） 
 
 #### react 相关资料
-https://www.jianshu.com/p/4784216b8194 （生命周期）  
+https://www.jianshu.com/p/4784216b8194 （生命周期）    
+
+#### 待深入研究  
+[] Content  
+[] Portals
+[] Error Boundaries
+
 
 
 
