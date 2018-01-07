@@ -24,9 +24,9 @@ https://ant.design/index-cn  （阿里 ant design  包含：pc，wap，app  全�
 https://www.jianshu.com/p/4784216b8194 （生命周期）    
 
 #### 待深入研究  
-[] Content  
-[] Portals
-[] Error Boundaries
+[ ] Content  
+[ ] Portals  
+[ ] Error Boundaries
 
 
 
