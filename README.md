@@ -1,12 +1,15 @@
 # javascript-study
-javascript 相关技术学习存档
+javascript 相关技术学习存档  
 
 ## javascript
 https://developer.mozilla.org/zh-CN/  （web 前端开发文档）  
 
 https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/  （js函数式编程）  
 
-http://es6.ruanyifeng.com/ （阮一峰 es6 入门文档）
+http://es6.ruanyifeng.com/ （阮一峰 es6 入门文档）  
+
+http://www.css88.com/doc/webpack/  （webpack）  
+
 
 ## react 技术栈
 https://doc.react-china.org/ （react 中文网）  
@@ -38,6 +41,5 @@ https://www.jianshu.com/p/4784216b8194 （生命周期）
 
 
 ## vue 技术栈
-https://cn.vuejs.org/   （vue全家桶）  
-
+https://cn.vuejs.org/   （vue全家桶）
 
