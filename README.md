@@ -16,7 +16,7 @@ https://doc.react-china.org/ （react 中文网）
 
 https://react-guide.github.io/react-router-cn/ （react router）  
 
-https://css-tricks.com/react-router-4/ （react router 4）
+http://reacttraining.cn/ （react router 4）
 
 http://cn.redux.js.org/index.html/ （redux）  
 
