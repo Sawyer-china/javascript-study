@@ -32,7 +32,7 @@ https://ant.design/index-cn  （阿里 ant design  包含：pc，wap，app  全�
 #### react 相关资料
 https://www.jianshu.com/p/4784216b8194 （生命周期）  
 
-http://blog.csdn.net/u013718120/article/details/72357698 （react-navigation  必学）
+https://reactnavigation.org/docs/intro/quick-start （react-navigation  必学）
 
 #### 待深入研究  
 
