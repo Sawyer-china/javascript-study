@@ -49,3 +49,6 @@ https://cn.vuejs.org/   （vue全家桶）
 
 ## 构建 F8 App (必看)
 https://f8-app.liaohuqiu.net/tutorials/building-the-f8-app/planning/
+
+## 热更新
+http://update.reactnative.cn/home
