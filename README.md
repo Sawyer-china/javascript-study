@@ -30,7 +30,9 @@ https://hydrographer-vivian-23728.netlify.com/ReactNative%E5%9F%BA%E7%A1%80.html
 https://ant.design/index-cn  （阿里 ant design  包含：pc，wap，app  全套解决方案） 
 
 #### react 相关资料
-https://www.jianshu.com/p/4784216b8194 （生命周期）    
+https://www.jianshu.com/p/4784216b8194 （生命周期）  
+
+http://blog.csdn.net/u013718120/article/details/72357698 （react-navigation  必学）
 
 #### 待深入研究  
 
