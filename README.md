@@ -35,6 +35,7 @@ https://www.jianshu.com/p/4784216b8194 （生命周期）
 https://reactnavigation.org/docs/intro/quick-start （react-navigation  必学）
 
 https://www.jianshu.com/p/2f575cc35780 (react-navigation 中文相关配置)
+https://www.jianshu.com/p/b877115fff1b (react-navigation 进阶篇)
 
 http://blog.csdn.net/nidan123/article/details/51524999 (rnpm link)
 
