@@ -44,6 +44,13 @@ https://www.jianshu.com/p/43b0e4d58c1f (react-native-vector-icons使用方式)
 
 http://blog.csdn.net/f409031mn/article/details/79522129 (阿里 iconfont 图标使用方式)
 
+
+https://www.cnblogs.com/hangman/p/8398800.html
+( error: bundling failed: Error: While resolving module `react-native-vector-icons/MaterialIcons`, the Haste package `react-native-vector-icons` was found. However the module `MaterialIcons` could not be found within the package. Indeed, none of these files exist:
+
+ * `/Users/user/my-app/node_modules/react-native/local-cli/core/__fixtures__/files/MaterialIcons(.native||.ios.js|.native.js|.js|.ios.json|.native.json|.json)`
+  * `/Users/user/my-app/node_modules/react-native/local-cli/core/__fixtures__/files/MaterialIcons/index(.native||.ios.js|.native.js|.js|.ios.json|.native.json|.json)`)
+
 #### 待深入研究  
 
 * [ ] Content  
