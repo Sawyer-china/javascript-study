@@ -42,6 +42,8 @@ http://blog.csdn.net/nidan123/article/details/51524999 (rnpm link)
 
 https://www.jianshu.com/p/43b0e4d58c1f (react-native-vector-icons使用方式)
 
+http://blog.csdn.net/f409031mn/article/details/79522129 (阿里 iconfont 图标使用方式)
+
 #### 待深入研究  
 
 * [ ] Content  
